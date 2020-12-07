@@ -2,7 +2,7 @@
 
 欢迎来到我的个人空间！
 
-**![照片](E:\Github\zhiyuwen.github.io\images\照片.jpg)**
+**![](images\照片.jpg)**
 
 #### 个人简介
 
