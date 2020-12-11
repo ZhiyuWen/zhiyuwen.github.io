@@ -1,11 +1,11 @@
-![bite](E:\Github\zhiyuwen.github.io\films & books\images\bite.jpg)
+<img src="images\bite.jpg" alt="bite" style="zoom: 50%;" />
 
-![girl](E:\Github\zhiyuwen.github.io\films & books\images\girl.jpg)
+<img src="images\girl.jpg" alt="girl" style="zoom:50%;" />
 
-![man](E:\Github\zhiyuwen.github.io\films & books\images\man.jpg)
+<img src="images\man.jpg" alt="man" style="zoom:50%;" />
 
-![nice](E:\Github\zhiyuwen.github.io\films & books\images\nice.jpg)
+<img src="images\nice.jpg" alt="nice" style="zoom:50%;" />
 
-![summer](E:\Github\zhiyuwen.github.io\films & books\images\summer.jpg)
+<img src="images\summer.jpg" alt="summer" style="zoom:50%;" />
 
-![way home](E:\Github\zhiyuwen.github.io\films & books\images\way home.jpg)
+<img src="images\way home.jpg" alt="way home" style="zoom:50%;" />

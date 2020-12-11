@@ -8,6 +8,6 @@
 
 ##### 布达佩斯大饭店 The Grand Budapest Hotel (2014)
 
-![img](https://img9.doubanio.com/view/photo/l/public/p2533778726.webp)
+<img src="https://img9.doubanio.com/view/photo/l/public/p2533778726.webp" alt="img" style="zoom:25%;" />
 
 - You see, there are still faint glimmers of civilization left in this barbaric slaughter house that was once known as humanity.
