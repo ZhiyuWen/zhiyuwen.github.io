@@ -2,19 +2,22 @@
 
 [About](index.md)
 
-[English]()
+[Courses]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [Organizational Behavior](courses/organizational behavior.md)
+  * [Company's Operation](courses/operations of company.md)
+- - - -
+  * # Others
+  * [Marketing](courses/marketing.md)
 
-[Math]()
+[Coding]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [Python](coding/python/汇总.md)
 
-[Coding](coding/PythonNote.md)
+[Films & Books]()
+
+- [Films](films & books/film.md)
+- [Books](films & books/book.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
